@@ -1,0 +1,20 @@
+#container {
+
+    width: 500px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+#title {
+    background-color: rgb(76, 131, 213);
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    background-size: 20%;
+    height: 50px;
+    width: 500px;
+}
+
+#logo {
+    height: 100%;
+    width: 20%;
+}
