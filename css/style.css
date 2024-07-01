@@ -35,9 +35,8 @@ h1 {
     font-size: 0.6rem;
 }
 
-p,
-{
-font-size: 15px;
+p {
+    font-size: 15px;
 }
 
 #list {
