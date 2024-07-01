@@ -35,11 +35,39 @@ h1 {
     font-size: 0.6rem;
 }
 
-p {
-    font-size: 15px;
+p,
+{
+font-size: 15px;
 }
 
 #list {
     padding-left: 15px;
     font-size: 13px;
+}
+
+table {
+    text-align: left;
+    font-size: 13px;
+    border-spacing: 0;
+}
+
+thead {
+    background-color: rgb(41, 151, 248);
+    color: white;
+}
+
+.color-table {
+    background-color: rgb(126, 195, 255);
+}
+
+.table-left {
+    width: 25%;
+}
+
+.table-center {
+    width: 25%;
+}
+
+.table-right {
+    width: 48%;
 }
