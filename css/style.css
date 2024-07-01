@@ -34,3 +34,12 @@ h1 {
 .small-font {
     font-size: 0.6rem;
 }
+
+p {
+    font-size: 15px;
+}
+
+#list {
+    padding-left: 15px;
+    font-size: 13px;
+}
