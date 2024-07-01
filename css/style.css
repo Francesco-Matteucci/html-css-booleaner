@@ -12,12 +12,16 @@
     background-size: 20%;
     height: 50px;
     width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
 
 }
 
 #logo {
     height: 100%;
     width: 20%;
+    margin-left: 205px;
 }
 
 h1 {
